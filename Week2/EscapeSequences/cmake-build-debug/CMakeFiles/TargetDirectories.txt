@@ -1,0 +1,3 @@
+C:/Users/anuma/CLionProjects/Week2/EscapeSequences/cmake-build-debug/CMakeFiles/EscapeSequences.dir
+C:/Users/anuma/CLionProjects/Week2/EscapeSequences/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anuma/CLionProjects/Week2/EscapeSequences/cmake-build-debug/CMakeFiles/rebuild_cache.dir
