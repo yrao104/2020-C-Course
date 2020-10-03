@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\anuma\source\repos\Quiz6Q3\Quiz6Q3\Source.cpp(25,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\anuma\source\repos\Quiz6Q3\Quiz6Q3\Source.cpp(26,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Quiz6Q3.vcxproj -> C:\Users\anuma\source\repos\Quiz6Q3\Debug\Quiz6Q3.exe

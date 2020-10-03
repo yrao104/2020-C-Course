@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\anuma\source\repos\Quiz7Q3\Quiz7Q3\Source.cpp(23,9): warning C4930: 'person person_a(wallet)': prototyped function not called (was a variable definition intended?)
+  Quiz7Q3.vcxproj -> C:\Users\anuma\source\repos\Quiz7Q3\Debug\Quiz7Q3.exe
